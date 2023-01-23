@@ -25,6 +25,6 @@
 <img aling="center" alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 </div>
 
-</br>
-
+<hr>
+<br>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/ygcristopher/count.svg" /></p>
