@@ -1,5 +1,5 @@
 ### Hi! I'am Yago Cristopher 👋
-💻 Web Developer - Full Stack.
+💻 Web Developer
 
 💪 If you can't win by talent, win by effort.
 
