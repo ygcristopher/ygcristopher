@@ -4,7 +4,7 @@
 
 > *"If you can't win by talent, win by effort."* 💪
 
-I'm a passionate Web Developer currently studying System of Information at **@uniasselvi** and developing my skills at **@mdm-academy**.
+I'm a passionate Web Developer currently studying **Information Systems** at **Uniasselvi** and improving my skills at **MDM Academy**.
 
 ---
 
@@ -20,16 +20,14 @@ I'm a passionate Web Developer currently studying System of Information at **@un
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ygcristopher&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygcristopher&layout=compact&theme=radical&langs_count=8"/>
-  
-</div>
-
-<div align="center">
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ygcristopher&show_icons=true&theme=dracula)
-  
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ygcristopher&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
+    height="180em"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygcristopher&layout=compact&theme=radical&langs_count=8"
+    height="180em"
+  />
 </div>
 
 ---
@@ -67,10 +65,10 @@ I'm a passionate Web Developer currently studying System of Information at **@un
 ## 📫 Connect with Me
 
 <div align="center">
-  
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ygca.dev@gmail.com)
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ygcristopher)
-  
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ygca.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ygcristopher)
+
 </div>
 
 ---
@@ -82,9 +80,9 @@ Check out my featured projects in the repositories section above!
 ---
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=ygcristopher&color=blueviolet&style=flat-square)
-  
+
+  <img src="https://komarev.com/ghpvc/?username=ygcristopher&color=blueviolet&style=flat-square" />
+
   ⭐️ From [ygcristopher](https://github.com/ygcristopher)
-  
+
 </div>
