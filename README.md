@@ -28,7 +28,7 @@ I'm a passionate Web Developer currently studying System of Information at **@un
 
 <div align="center">
   
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ygcristopher&theme=redical&hide_border=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ygcristopher&show_icons=true&theme=highcontrast)
   
 </div>
 
