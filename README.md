@@ -19,7 +19,7 @@ I'm a passionate Web Developer currently studying **Information Systems** at **U
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<div align="start">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ygcristopher&theme=radical" />
 </div>
 
