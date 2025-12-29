@@ -20,14 +20,7 @@ I'm a passionate Web Developer currently studying **Information Systems** at **U
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ygcristopher&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=86400"
-    height="180em"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygcristopher&layout=compact&theme=radical&langs_count=8&cache_seconds=86400"
-    height="180em"
-  />
+ <img src="https://streak-stats.demolab.com?user=ygcristopher&theme=radical" />
 </div>
 
 ---
